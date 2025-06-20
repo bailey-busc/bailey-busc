@@ -1,3 +1,5 @@
 - 🔭 I’m currently working on NixOS in the enterprise
-- 🌱 I’m currently learning (well, revisiting) Purescript and category theory.
+- 🌱 I’m currently learning/revisiting Purescript and category theory
 - 😄 Pronouns: she/her
+- 💬 Ask me about my truck 🐱
+- 🤔 I’m looking for help with adjusting the front bumper 😭
